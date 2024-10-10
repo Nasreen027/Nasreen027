@@ -32,8 +32,10 @@ I’m a Frontend Developer focused on building visually-appealing and functional
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasreen027&layout=compact&theme=radical)](https://github.com/Nasreen027/github-readme-stats)
 
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Nasreen027&theme=onedark)
+## 🎓 Certifications
+- [Frontend Development Certificate](https://link-to-certification.com)  
+  ![Certificate Badge](https://img.shields.io/badge/Certified-Frontend_Developer-blue?style=flat-square&logo=freecodecamp)
+
 
 
 

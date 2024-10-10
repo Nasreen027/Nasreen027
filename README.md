@@ -11,6 +11,6 @@ I’m a Frontend Developer focused on building visually-appealing and functional
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/nasreen429)
-[![LinkedIn](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@nasreenmalik429)
+[![LinkedIn](https://img.shields.io/badge/Medium-Follow-blue)](https://medium.com/@nasreenmalik429)
 
 

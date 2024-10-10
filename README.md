@@ -11,7 +11,7 @@ I’m a Frontend Developer focused on building visually-appealing and functional
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nasreen429)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/your-username)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail)](nasreenmalik429@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@nasreenmalik429)
 
 

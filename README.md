@@ -10,7 +10,9 @@ I’m a Frontend Developer focused on building visually-appealing and functional
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/nasreen429)
-[![LinkedIn](https://img.shields.io/badge/Medium-Follow-blue)](https://medium.com/@nasreenmalik429)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nasreen429)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/your-username)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/your-username)
+
 
 

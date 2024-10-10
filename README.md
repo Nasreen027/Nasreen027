@@ -31,17 +31,4 @@ I’m a Frontend Developer focused on building visually-appealing and functional
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasreen027&layout=compact&theme=radical)](https://github.com/Nasreen027/github-readme-stats)
 
-## 📫 How to Reach Me
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nasreenmalik429@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-
-
-
-
-
-
-
-
-
 

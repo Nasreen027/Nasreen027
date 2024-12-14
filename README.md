@@ -15,6 +15,8 @@ I’m a Frontend Developer focused on building visually-appealing and functional
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@nasreenmalik429)
 [![Work with me on Contra](https://img.shields.io/badge/Work_with_me-Contra-blue?style=for-the-badge&logo=handshake)](https://contra.com/iman_jrwscwab)
 [![Hire me on Upwork](https://img.shields.io/badge/Hire_me-Upwork-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~018d7cd8f7aad29211?mp_source=share)
+![Upwork Icon](https://img.icons8.com/color/48/upwork.png) [Hire me on Upwork](https://www.upwork.com/freelancers/your-profile)
+
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 

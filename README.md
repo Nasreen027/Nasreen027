@@ -4,7 +4,7 @@ I’m a Frontend Developer focused on building visually-appealing and functional
 
 ## What I'm Working On
 - Frontend Development with React and JavaScript
-- Learning about modern libraries like Framer motion and Tailwind
+- Learning about modern libraries
 
 🌐 [Portfolio](https://nasreen.vercel.app/)
 

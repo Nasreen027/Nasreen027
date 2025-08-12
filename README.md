@@ -13,7 +13,6 @@ I’m a Frontend Developer focused on building visually-appealing and functional
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nasreen429)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nasreenmalik429@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@nasreenmalik429)
-[![Hire me on Upwork](https://img.shields.io/badge/Hire_me-Upwork-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~018d7cd8f7aad29211?mp_source=share)
 
 
 ### Tools:
